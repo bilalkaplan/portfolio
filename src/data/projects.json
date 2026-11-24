@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "title": "Travelmind — AI RAG Otel Asistanı",
+    "title_en": "Travelmind — AI RAG Hotel Assistant",
+    "description": "Microsoft AI Innovators stajı kapsamında ~1.600 otel verisi için LLM ve vektör veritabanı entegreli özel Retrieval-Augmented Generation (RAG) boru hattı.",
+    "description_en": "Custom Retrieval-Augmented Generation (RAG) pipeline built during Microsoft AI Innovators internship, integrating LLMs and vector databases across ~1,600 hotels.",
+    "details_tr": "Microsoft Türkiye AI Innovators Yaz Staj Programı sırasında geliştirilen Travelmind, doğal dil sorgularıyla ~1.600 otel arasından bağlamsal olarak en isabetli önerileri getiren uçtan uca bir RAG sistemidir. Semantik gömme (embedding) stratejisi ve vektör arama optimizasyonu ile halüsinasyonu azaltan, yüksek doğruluklu sonuçlar üretir.",
+    "details_en": "Built during the competitive Microsoft AI Innovators Summer Internship Program, Travelmind is an end-to-end RAG system designed for precise natural-language retrieval across ~1,600 hotels. It combines semantic embeddings, vector indexing, and grounded LLM synthesis to minimize hallucinations and maximize relevance.",
+    "highlights_tr": [
+      "~1.600 otel kaydı için optimize edilmiş vektör veritabanı indeksleme",
+      "LLM + semantik geri çağırma (retrieval) entegrasyonu",
+      "Ölçeklenebilir sorgu boru hattı ve yanıt doğrulama"
+    ],
+    "highlights_en": [
+      "Vector database indexing optimized across ~1,600 hotel records",
+      "Grounded LLM synthesis integrated with semantic retrieval",
+      "Scalable query pipeline with structured relevance validation"
+    ],
+    "image": "/images/projects/travelmind.svg",
+    "technologies": ["Python", "RAG", "LLM", "Vector DB"],
+    "category": "Yapay Zeka",
+    "categoryKey": "ai",
+    "date": "2026",
+    "role_tr": "Yapay Zeka Stajyeri — Microsoft Türkiye",
+    "role_en": "AI Intern — Microsoft Türkiye",
+    "githubUrl": "https://github.com/bilalkaplan",
+    "demoUrl": "",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "PoemGarden — Çok Dilli Şiir Platformu",
+    "title_en": "PoemGarden — Multilingual Poetry Web Platform",
+    "description": "React, i18n ve React Router kullanılarak geliştirilip Vercel üzerinde canlıya alınan, responsive çok dilli şiir okuma ve yayınlama platformu.",
+    "description_en": "Responsive frontend web application for poetry reading and publishing, built with React, i18n, and React Router, and deployed on Vercel.",
+    "details_tr": "Edebiyat tutkusunu modern web mühendisliğiyle buluşturan PoemGarden; kullanıcıların şiir keşfedebildiği, okuyabildiği ve paylaşabildiği çok dilli bir arayüzdür. Temiz bileşen mimarisi, dinamik sayfa yönlendirmeleri ve i18n altyapısı ile mobil ve masaüstünde akıcı bir okuma deneyimi sunar.",
+    "details_en": "Blending a passion for literature with modern frontend engineering, PoemGarden is a multilingual platform for discovering, reading, and publishing poetry. Crafted with modular React components, dynamic React Router navigation, and seamless i18n localization across desktop and mobile.",
+    "highlights_tr": [
+      "React Router ile çok sayfalı SPA mimarisi",
+      "i18n desteğiyle anlık çoklu dil deneyimi",
+      "Vercel üzerinde canlı dağıtım (production deployment)"
+    ],
+    "highlights_en": [
+      "Multi-page SPA architecture powered by React Router",
+      "Instant multilingual switching with i18n support",
+      "Live production deployment on Vercel"
+    ],
+    "image": "/images/projects/poemgarden.svg",
+    "technologies": ["React", "JavaScript", "CSS", "React Router", "i18n"],
+    "category": "Frontend",
+    "categoryKey": "frontend",
+    "date": "2026",
+    "role_tr": "Frontend Geliştirici",
+    "role_en": "Frontend Developer",
+    "githubUrl": "https://github.com/bilalkaplan",
+    "demoUrl": "https://poem-garden.vercel.app",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Austria Grid Crisis Predictor (ENTSO-E)",
+    "title_en": "Austria Grid Crisis Predictor (ENTSO-E)",
+    "description": "Avusturya elektrik şebekesi ENTSO-E verileriyle günlük net yük ve şebeke esnekliği tahmini için PyTorch, GRU ve BiLSTM tabanlı derin öğrenme zaman serisi analizi.",
+    "description_en": "Deep learning time-series pipeline using PyTorch, GRU, and BiLSTM on Austrian ENTSO-E datasets for daily net load and grid flexibility forecasting.",
+    "details_tr": "Microsoft Türkiye AI Innovators stajı kapsamında geliştirilen Austria Grid Crisis Predictor, Avusturya elektrik şebekesine ait çok çözünürlüklü ENTSO-E veri setleri üzerinde günlük net yük (Daily Net Load) ve şebeke esnekliği tahmini yapan uçtan uca bir derin öğrenme çalışmasıdır. Veri inceleme, zaman kodlama (time encoding), mekansal farkındalık (spatial awareness) analizleri ile GRU ve BiLSTM modellerinin çapraz doğrulama (cross-validation) ve RMSE, MAE, WAPE metrikleriyle karşılaştırmalı değerlendirmesini içerir.",
+    "details_en": "Developed during the Microsoft Türkiye AI Innovators program, Austria Grid Crisis Predictor is an end-to-end deep learning study on multi-resolution Austrian ENTSO-E datasets for daily net load and grid flexibility forecasting. It covers dataset inspection, time encoding and spatial awareness analysis, and cross-validated GRU & BiLSTM architectures evaluated via RMSE, MAE, and WAPE.",
+    "highlights_tr": [
+      "GRU ve BiLSTM mimarileriyle çapraz doğrulamalı (cross-validation) zaman serisi tahmini",
+      "Daily Net Load & Grid Flexibility forecasting analizleri",
+      "Zaman kodlama (time encoding) ve mekansal farkındalık (spatial awareness) deneyleri",
+      "RMSE, MAE ve WAPE metrikleriyle kapsamlı model değerlendirmesi"
+    ],
+    "highlights_en": [
+      "Cross-validated GRU and BiLSTM time-series forecasting models in PyTorch",
+      "Daily Net Load and Grid Flexibility forecasting notebooks",
+      "Time encoding and spatial awareness feature analysis",
+      "Rigorous model evaluation using RMSE, MAE, and WAPE metrics"
+    ],
+    "image": "/images/projects/energy-ai.svg",
+    "technologies": ["Python", "PyTorch", "GRU / BiLSTM", "Jupyter"],
+    "category": "Yapay Zeka",
+    "categoryKey": "ai",
+    "date": "2026",
+    "role_tr": "Yapay Zeka Stajyeri — Microsoft Türkiye",
+    "role_en": "AI Intern — Microsoft Türkiye",
+    "githubUrl": "https://github.com/bilalkaplan/austria-grid-crisis-predictor",
+    "demoUrl": "",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "title": "RumeliCare — SQL Sağlık Bilgi Yönetim Sistemi",
+    "title_en": "RumeliCare — SQL Health Information Management System",
+    "description": "Klinik operasyonlarını dijitalleştirmek ve hızlı veri erişimi sağlamak amacıyla normalizasyon ve sorgu optimizasyonuyla tasarlanmış ilişkisel SQL veritabanı sistemi.",
+    "description_en": "Relational SQL database architecture engineered to digitize clinic operations, optimizing complex queries for rapid and reliable clinical data retrieval.",
+    "details_tr": "Hasta kayıtları, randevu çizelgeleri, hekim departmanları ve klinik reçete/tanı süreçlerini bütünleşik şekilde yöneten ilişkisel veritabanı mimarisidir. Referans bütünlüğü, indeksleme stratejileri ve karmaşık JOIN sorgularının optimizasyonuyla yüksek veri tutarlılığı hedeflenmiştir.",
+    "details_en": "Comprehensive relational database system digitizing patient records, appointments, specialist departments, and clinical workflows. Built with strict normalization, referential integrity constraints, indexing, and optimized SQL queries for fast reporting.",
+    "highlights_tr": [
+      "3NF normalizasyonlu ilişkisel ER şeması",
+      "Hızlı raporlama için optimize edilmiş JOIN ve indeks sorguları",
+      "Klinik veri bütünlüğü ve rol tabanlı tablo tasarımı"
+    ],
+    "highlights_en": [
+      "Normalized relational ER schema for hospital workflows",
+      "Optimized SQL JOINs and indexing for rapid data retrieval",
+      "Strict foreign-key integrity and clinical auditability"
+    ],
+    "image": "/images/projects/rumelicare.svg",
+    "technologies": ["SQL", "Database Design", "Java"],
+    "category": "Veritabanı",
+    "categoryKey": "database",
+    "date": "2025",
+    "role_tr": "Veritabanı Mimarı",
+    "role_en": "Database Architect",
+    "githubUrl": "https://github.com/bilalkaplan/RumeliCare-Hospital-Database-System",
+    "demoUrl": "",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "title": "CPU Zamanlama Algoritmaları Karşılaştırmalı Analizi",
+    "title_en": "Comparative Analysis of CPU Scheduling Algorithms",
+    "description": "İşlemci görev dağılımını optimize etmek ve boşta kalma süresini azaltmak için SJF ve Round Robin algoritmalarının simülasyonu ve performans kıyaslaması.",
+    "description_en": "Simulation and benchmark suite comparing Shortest Job First (SJF) and Round Robin CPU scheduling algorithms to optimize task distribution and minimize idle time.",
+    "details_tr": "İşletim sistemleri çekirdek zamanlayıcı davranışlarını incelemek amacıyla Shortest Job First (SJF) ve farklı zaman dilimli Round Robin algoritmalarını modelleyen simülasyon çalışmasıdır. Ortalama bekleme süresi, tamamlanma süresi (turnaround) ve CPU kullanım oranı metrikleri karşılaştırmalı olarak analiz edilir.",
+    "details_en": "Operating systems simulation benchmarking Shortest Job First (SJF) against Round Robin scheduling across varying process workloads. Calculates average waiting time, turnaround time, and CPU utilization to evaluate scheduling trade-offs.",
+    "highlights_tr": [
+      "SJF ve Round Robin zamanlayıcı simülasyon motoru",
+      "Bekleme süresi, turnaround ve CPU verimlilik metrikleri",
+      "Farklı süreç yükleri altında karşılaştırmalı performans analizi"
+    ],
+    "highlights_en": [
+      "Complete SJF and Round Robin execution simulator",
+      "Automated calculation of wait time, turnaround, and utilization",
+      "Comparative workload benchmarks across quantum configurations"
+    ],
+    "image": "/images/projects/cpu-scheduling.svg",
+    "technologies": ["Java", "Python", "Algorithms"],
+    "category": "Sistem",
+    "categoryKey": "systems",
+    "date": "2025",
+    "role_tr": "Sistem Yazılımı Geliştirici",
+    "role_en": "Systems Developer",
+    "githubUrl": "https://github.com/bilalkaplan/CPU-Scheduling-Algorithms",
+    "demoUrl": "",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "title": "8086 Assembly Dijital Saat Uygulaması",
+    "title_en": "8086 Assembly Digital Clock Application",
+    "description": "Düşük seviye programlama, bellek yönetimi ve donanım kesmeleri (interrupt handling) kullanılarak geliştirilen 8086 tabanlı dijital saat simülasyonu.",
+    "description_en": "Hardware-level digital clock simulation written in 8086 Assembly applying low-level programming, memory management, and system interrupt handling.",
+    "details_tr": "Intel 8086 mikroişlemci mimarisi üzerinde doğrudan register kontrolü, INT 21h sistem kesmeleri ve BCD dönüşüm rutinleri kullanılarak geliştirilen gerçek zamanlı dijital saat uygulamasıdır. Donanım seviyesinde bellek adresleme ve ekran tamponu yönetimini pratikte gösterir.",
+    "details_en": "Real-time digital clock built directly for the Intel 8086 microprocessor architecture using register-level operations, INT 21h interrupt routines, and BCD-to-ASCII rendering. Demonstrates low-level memory management and hardware timing control.",
+    "highlights_tr": [
+      "INT 21h sistem kesmeleri ile gerçek zamanlı saat okuma",
+      "Doğrudan 8086 register ve bellek segmenti yönetimi",
+      "BCD dönüşümü ve düşük seviye ekran çıkışı"
+    ],
+    "highlights_en": [
+      "Real-time system clock polling via INT 21h interrupts",
+      "Direct 8086 register and memory segment manipulation",
+      "BCD conversion and low-level console buffer output"
+    ],
+    "image": "/images/projects/assembly-clock.svg",
+    "technologies": ["Assembly 8086", "Low-Level", "Memory Management"],
+    "category": "Sistem",
+    "categoryKey": "systems",
+    "date": "2024",
+    "role_tr": "Düşük Seviye Programlama",
+    "role_en": "Low-Level Developer",
+    "githubUrl": "https://github.com/bilalkaplan/8086-Assembly-Digital-Clock",
+    "demoUrl": "",
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "title": "Kişisel Portfolyo Web Sitesi (React + Context API)",
+    "title_en": "Personal Portfolio Website (React + Context API)",
+    "description": "React Router, Dark/Light tema, TR/EN çoklu dil desteği ve Local Storage kalıcılığıyla geliştirilen özgün kişisel portfolyo web uygulaması.",
+    "description_en": "Custom personal portfolio built with React Router, Dark/Light theming via CSS variables, TR/EN localization, and Local Storage persistence.",
+    "details_tr": "Tema yönetimi için ThemeContext, çoklu dil çevirileri için LanguageContext ve saf CSS değişkenleriyle tasarlanmış, tamamen responsive kişisel portfolyo web uygulamasıdır. Teknolojiye/kategoriye göre proje filtreleme, proje detay modalı, validasyonlu iletişim formu ve tek tıkla PDF CV indirme özelliklerini barındırır.",
+    "details_en": "Fully responsive personal portfolio powered by ThemeContext for light/dark themes, LanguageContext for TR/EN localization, and pure CSS custom properties. Features technology & category project filtering, project detail modals, validated contact form, and direct PDF CV downloads.",
+    "highlights_tr": [
+      "ThemeContext & LanguageContext ile global durum yönetimi",
+      "Local Storage ile tema ve dil tercihlerinin kalıcı saklanması",
+      "Modüler component yapısı ve mobil hamburger menü"
+    ],
+    "highlights_en": [
+      "Global state architecture via ThemeContext & LanguageContext",
+      "Persistent theme & language preferences in Local Storage",
+      "Modular component architecture with responsive mobile navigation"
+    ],
+    "image": "/images/projects/portfolio-web.svg",
+    "technologies": ["React", "JavaScript", "CSS", "React Router", "Context API"],
+    "category": "Frontend",
+    "categoryKey": "frontend",
+    "date": "2026",
+    "role_tr": "Frontend Geliştirici & Tasarımcı",
+    "role_en": "Frontend Developer & Designer",
+    "githubUrl": "https://github.com/bilalkaplan",
+    "demoUrl": "",
+    "isFeatured": false
+  }
+]

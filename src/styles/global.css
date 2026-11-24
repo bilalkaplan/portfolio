@@ -1,0 +1,238 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--text-primary);
+  line-height: 1.68;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+  /* Crisp, unblurred Claude Monet — Impression, Sunrise (1872), Public Domain */
+  background-color: #6f868e;
+  background-image: url('/images/monet-impression-sunrise.jpg');
+  background-size: cover;
+  background-position: center 30%;
+  background-attachment: fixed;
+  transition: var(--transition-theme);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+  color: var(--text-primary);
+  font-weight: 500;
+  line-height: 1.22;
+  letter-spacing: -0.01em;
+}
+
+h4 {
+  font-family: var(--font-sans);
+  color: var(--text-primary);
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button,
+input,
+textarea {
+  font-family: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: 2px;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--folio-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.layout-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: var(--nav-height);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Open Atmospheric Header Band (lets Monet's painting breathe vividly) */
+.page-banner {
+  background: var(--banner-scrim);
+  color: var(--text-on-canvas);
+  padding: 58px 0 46px;
+  transition: var(--transition-theme);
+}
+
+.page-banner h1 {
+  color: var(--text-on-canvas);
+  font-size: clamp(2.1rem, 4vw, 2.85rem);
+  font-weight: 500;
+  margin-bottom: 8px;
+  text-shadow: 0 2px 14px rgba(10, 18, 24, 0.45);
+}
+
+.page-banner p {
+  color: var(--text-on-canvas-muted);
+  font-size: 1rem;
+  max-width: 640px;
+  text-shadow: 0 1px 10px rgba(10, 18, 24, 0.45);
+}
+
+/* Framed Gallery Paper Sheet — Monet remains visible around all margins! */
+.folio-stage {
+  padding: 36px 24px 64px;
+  flex: 1;
+}
+
+.paper-folio {
+  width: 100%;
+  max-width: var(--folio-width);
+  margin: 0 auto;
+  background-color: var(--paper-bg);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-paper);
+  padding: 44px 48px;
+  transition: var(--transition-theme);
+}
+
+/* Understated Buttons — Sharp Editorial Geometry */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 9px 18px;
+  border-radius: 3px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border: 1px solid transparent;
+  transition: background-color var(--transition-fast), border-color var(--transition-fast),
+    color var(--transition-fast);
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background-color: var(--accent-primary);
+  color: #faf7f1;
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-primary-hover);
+}
+
+.btn-secondary {
+  background-color: transparent;
+  color: var(--text-primary);
+  border-color: var(--border-strong);
+}
+
+.btn-secondary:hover {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
+
+.btn-ghost {
+  background-color: transparent;
+  color: var(--text-secondary);
+  border-color: var(--border-color);
+}
+
+.btn-ghost:hover {
+  color: var(--text-primary);
+  border-color: var(--border-strong);
+}
+
+.btn-banner {
+  background-color: rgba(18, 28, 35, 0.62);
+  color: #faf7f1;
+  border: 1px solid rgba(250, 247, 241, 0.42);
+  padding: 9px 18px;
+}
+
+.btn-banner:hover {
+  background-color: var(--accent-primary);
+  border-color: var(--accent-primary);
+}
+
+.btn-sm {
+  padding: 6px 13px;
+  font-size: 0.84rem;
+}
+
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--accent-primary);
+  font-size: 0.91rem;
+  font-weight: 500;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--transition-fast);
+}
+
+.text-link:hover {
+  border-bottom-color: var(--accent-primary);
+}
+
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+
+  .container {
+    padding: 0 18px;
+  }
+
+  .page-banner {
+    padding: 40px 0 32px;
+  }
+
+  .folio-stage {
+    padding: 20px 14px 44px;
+  }
+
+  .paper-folio {
+    padding: 28px 22px;
+  }
+}

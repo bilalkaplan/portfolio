@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımda",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "menuOpen": "Menüyü aç",
+    "menuClose": "Menüyü kapat"
+  },
+  "theme": {
+    "toDark": "Karanlık temaya geç",
+    "toLight": "Aydınlık temaya geç",
+    "dark": "Karanlık",
+    "light": "Aydınlık"
+  },
+  "language": {
+    "switchLabel": "Dili değiştir"
+  },
+  "hero": {
+    "greeting": "Hakkımda",
+    "role": "Bilgisayar Mühendisliği Öğrencisi",
+    "institution": "İstanbul Rumeli Üniversitesi",
+    "summary": "Yapay zeka mühendisliği ve yazılım geliştirme üzerine çalışan Bilgisayar Mühendisliği son sınıf öğrencisiyim. Microsoft AI Innovators staj programı kapsamında RAG boru hatları ve PyTorch tabanlı zaman serisi modelleri geliştirdim. Huawei Student Developers (HSD), İstanbul Veri Topluluğu ve TOG bünyesinde aktif topluluk liderliği yürütüyor; etik yapay zeka mimarileri ve teknik proje yönetimi alanında kendimi geliştiriyorum.",
+    "downloadCV": "CV İndir",
+    "viewProjects": "Projelerim",
+    "interestsHeading": "İlgi Alanları",
+    "interestsList": [
+      "Yapay Zeka & RAG Mimarileri",
+      "Derin Öğrenme & Zaman Serisi Tahmini",
+      "Modern Web Geliştirme (React)",
+      "Etik Yapay Zeka & Topluluk Liderliği"
+    ],
+    "educationHeading": "Eğitim & Staj",
+    "educationItems": [
+      {
+        "title": "Lisans, Bilgisayar Mühendisliği",
+        "org": "İstanbul Rumeli Üniversitesi (2023 – Devam)"
+      },
+      {
+        "title": "Yapay Zeka Stajyeri (AI Innovators)",
+        "org": "Microsoft Türkiye (2026)"
+      },
+      {
+        "title": "Erasmus+ Gençlik Değişimleri",
+        "org": "Avusturya, Litvanya & Fransa (2026)"
+      }
+    ],
+    "featuredTitle": "Seçili Projeler",
+    "featuredSubtitle": "Yapay zeka, web teknolojileri ve veritabanı alanlarındaki son çalışmalarım.",
+    "allProjects": "Tüm projeleri gör",
+    "photoAlt": "Bilal Kocakaplan profil fotoğrafı"
+  },
+  "about": {
+    "eyebrow": "Hakkımda",
+    "title": "Hakkımda",
+    "subtitle": "Eğitim geçmişim, teknik deneyimlerim, topluluk liderliği çalışmalarım ve ilgi alanlarım.",
+    "bioTitle": "Biyografi",
+    "educationTitle": "Eğitim",
+    "experienceTitle": "İş & Staj Deneyimi",
+    "volunteeringTitle": "Topluluk Liderliği & Gönüllülük",
+    "internationalTitle": "Uluslararası Deneyim (Erasmus+)",
+    "conferenceTitle": "Akademik Bildiri & Konferans",
+    "conferenceLink": "Kongre Kitabını İncele",
+    "certificationsTitle": "Sertifikalar",
+    "hobbiesTitle": "İlgi Alanları & Hobiler",
+    "locationLabel": "Konum",
+    "birthPlaceLabel": "Doğum Yeri",
+    "emailLabel": "E-posta",
+    "downloadCV": "CV İndir (PDF)"
+  },
+  "skills": {
+    "eyebrow": "Yetenekler",
+    "title": "Yetenekler",
+    "subtitle": "Programlama dilleri, framework'ler, veritabanları ve geliştirme araçlarındaki yetkinlik seviyelerim.",
+    "allCategories": "Tümü",
+    "languagesTitle": "Yabancı Dil",
+    "turkish": "Türkçe",
+    "turkishLevel": "Anadil",
+    "english": "İngilizce",
+    "englishLevel": "B2 — Dinleme, Okuma, Konuşma, Yazma",
+    "softSkillsTitle": "Kişisel & Liderlik Yetkinlikleri",
+    "softSkills": [
+      "Stratejik Planlama & Organizasyon",
+      "Takım Yönetimi & İş Birliği",
+      "Kültürlerarası İletişim",
+      "Eleştirel Düşünme & Analitik Araştırma",
+      "Teknik Sunum & Yazım",
+      "Yaratıcı Problem Çözme"
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projeler",
+    "title": "Projeler",
+    "subtitle": "Kategoriye veya teknolojiye göre filtreleyebilir, kartlara tıklayarak detayları inceleyebilirsiniz.",
+    "categoryFilterLabel": "Kategori",
+    "techFilterLabel": "Teknoloji",
+    "all": "Tümü",
+    "categories": {
+      "all": "Tümü",
+      "ai": "Yapay Zeka",
+      "frontend": "Frontend",
+      "database": "Veritabanı",
+      "systems": "Sistem"
+    },
+    "resultCount": "proje listeleniyor",
+    "emptyState": "Seçilen filtrelere uygun proje bulunamadı.",
+    "resetFilters": "Filtreleri Temizle",
+    "featuredBadge": "Öne Çıkan",
+    "detailsBtn": "Detaylar",
+    "githubBtn": "GitHub",
+    "demoBtn": "Demo",
+    "modal": {
+      "close": "Kapat",
+      "overview": "Proje Özeti",
+      "highlights": "Öne Çıkan Özellikler",
+      "technologies": "Kullanılan Teknolojiler",
+      "role": "Rol",
+      "year": "Yıl",
+      "viewCode": "GitHub'da İncele",
+      "liveDemo": "Canlı Demo"
+    }
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "İletişim",
+    "subtitle": "Staj, proje iş birliği veya topluluk etkinlikleri için mesaj bırakabilir ya da doğrudan ulaşabilirsiniz.",
+    "infoTitle": "İletişim Bilgileri",
+    "emailLabel": "E-posta",
+    "phoneLabel": "Telefon",
+    "locationLabel": "Konum",
+    "socialTitle": "Sosyal Medya",
+    "responseNote": "Mesajlara genellikle 24 saat içinde dönüş yapıyorum.",
+    "form": {
+      "title": "Mesaj Gönder",
+      "name": "Adınız Soyadınız",
+      "namePlaceholder": "Örn: Ahmet Yılmaz",
+      "email": "E-posta Adresiniz",
+      "emailPlaceholder": "ornek@eposta.com",
+      "subject": "Konu",
+      "subjectPlaceholder": "Proje, staj veya etkinlik...",
+      "message": "Mesajınız",
+      "messagePlaceholder": "Mesajınızı buraya yazın...",
+      "submit": "Gönder",
+      "submitting": "Gönderiliyor...",
+      "successTitle": "Mesajınız iletildi",
+      "successMessage": "İletişime geçtiğiniz için teşekkür ederim. En kısa sürede dönüş yapacağım.",
+      "sendAnother": "Yeni Mesaj Gönder",
+      "errors": {
+        "nameRequired": "Lütfen adınızı ve soyadınızı girin.",
+        "nameMin": "Ad soyad en az 3 karakter olmalıdır.",
+        "emailRequired": "Lütfen e-posta adresinizi girin.",
+        "emailInvalid": "Lütfen geçerli bir e-posta adresi girin.",
+        "subjectRequired": "Lütfen bir konu başlığı girin.",
+        "subjectMin": "Konu en az 4 karakter olmalıdır.",
+        "messageRequired": "Lütfen mesajınızı yazın.",
+        "messageMin": "Mesajınız en az 15 karakter olmalıdır.",
+        "submitFailed": "Mesaj gönderilirken bir sorun oluştu. Lütfen tekrar deneyin veya doğrudan e-posta gönderin."
+      }
+    }
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır.",
+    "artworkCredit": "Arka plan: Claude Monet, Impression, Sunrise (1872) — Public Domain"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Sayfa Bulunamadı",
+    "description": "Aradığınız sayfa bulunamadı. Ana sayfaya dönerek devam edebilirsiniz.",
+    "backHome": "Ana Sayfaya Dön"
+  }
+}

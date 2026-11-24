@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "theme": {
+    "toDark": "Switch to dark theme",
+    "toLight": "Switch to light theme",
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "language": {
+    "switchLabel": "Switch language"
+  },
+  "hero": {
+    "greeting": "About Me",
+    "role": "Computer Engineering Student",
+    "institution": "Istanbul Rumeli University",
+    "summary": "Senior Computer Engineering student focusing on artificial intelligence and software engineering. During the Microsoft AI Innovators program, I built scalable RAG pipelines and PyTorch deep learning time-series models. Beyond coding, I lead student tech communities at Huawei Student Developers (HSD), Istanbul Data Community and TOG, aiming to specialize in ethical AI architectures and technical project management.",
+    "downloadCV": "Download CV",
+    "viewProjects": "Projects",
+    "interestsHeading": "Interests",
+    "interestsList": [
+      "Artificial Intelligence & RAG Pipelines",
+      "Deep Learning & Energy Forecasting",
+      "Frontend Web Engineering (React)",
+      "Ethical AI & Community Leadership"
+    ],
+    "educationHeading": "Education & Experience",
+    "educationItems": [
+      {
+        "title": "B.Sc. Computer Engineering",
+        "org": "Istanbul Rumeli University (2023 – Present)"
+      },
+      {
+        "title": "AI Intern (Microsoft AI Innovators)",
+        "org": "Microsoft Türkiye (2026)"
+      },
+      {
+        "title": "Erasmus+ Youth Exchanges",
+        "org": "Austria, Lithuania & France (2026)"
+      }
+    ],
+    "featuredTitle": "Selected Projects",
+    "featuredSubtitle": "Recent engineering projects across AI, web development and database systems.",
+    "allProjects": "View all projects",
+    "photoAlt": "Bilal Kocakaplan portrait"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "About Me",
+    "subtitle": "Academic background, technical experience, community leadership and personal interests.",
+    "bioTitle": "Biography",
+    "educationTitle": "Education",
+    "experienceTitle": "Work Experience",
+    "volunteeringTitle": "Community Leadership & Volunteering",
+    "internationalTitle": "International Experience (Erasmus+)",
+    "conferenceTitle": "Conference Publication",
+    "conferenceLink": "View Proceedings Book",
+    "certificationsTitle": "Certifications",
+    "hobbiesTitle": "Interests & Hobbies",
+    "locationLabel": "Location",
+    "birthPlaceLabel": "Place of Birth",
+    "emailLabel": "Email",
+    "downloadCV": "Download CV (PDF)"
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Skills",
+    "subtitle": "Technical proficiency across programming languages, frameworks, databases and developer tools.",
+    "allCategories": "All",
+    "languagesTitle": "Languages",
+    "turkish": "Turkish",
+    "turkishLevel": "Native",
+    "english": "English",
+    "englishLevel": "B2 — Listening, Reading, Speaking, Writing",
+    "softSkillsTitle": "Leadership & Soft Skills",
+    "softSkills": [
+      "Strategic Planning & Organization",
+      "Team Leadership & Collaboration",
+      "Intercultural Communication",
+      "Critical Thinking & Analytical Research",
+      "Technical Presenting & Writing",
+      "Creative Problem Solving"
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Projects",
+    "subtitle": "Filter by category or technology, and select any project card to inspect details.",
+    "categoryFilterLabel": "Category",
+    "techFilterLabel": "Technology",
+    "all": "All",
+    "categories": {
+      "all": "All",
+      "ai": "AI / ML",
+      "frontend": "Frontend",
+      "database": "Database",
+      "systems": "Systems"
+    },
+    "resultCount": "projects shown",
+    "emptyState": "No projects match the selected filters.",
+    "resetFilters": "Reset Filters",
+    "featuredBadge": "Featured",
+    "detailsBtn": "Details",
+    "githubBtn": "GitHub",
+    "demoBtn": "Demo",
+    "modal": {
+      "close": "Close",
+      "overview": "Overview",
+      "highlights": "Key Highlights",
+      "technologies": "Technologies",
+      "role": "Role",
+      "year": "Year",
+      "viewCode": "View on GitHub",
+      "liveDemo": "Live Demo"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Contact",
+    "subtitle": "Feel free to leave a message or reach out directly for internships, collaborations or community events.",
+    "infoTitle": "Contact Information",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "socialTitle": "Social",
+    "responseNote": "I typically respond within 24 hours.",
+    "form": {
+      "title": "Send a Message",
+      "name": "Full Name",
+      "namePlaceholder": "e.g. Jane Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "name@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "Project, internship or event...",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send",
+      "submitting": "Sending...",
+      "successTitle": "Message sent",
+      "successMessage": "Thank you for reaching out. I will get back to you soon.",
+      "sendAnother": "Send Another Message",
+      "errors": {
+        "nameRequired": "Please enter your full name.",
+        "nameMin": "Full name must be at least 3 characters.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address.",
+        "subjectRequired": "Please enter a subject.",
+        "subjectMin": "Subject must be at least 4 characters.",
+        "messageRequired": "Please write your message.",
+        "messageMin": "Message must be at least 15 characters.",
+        "submitFailed": "Something went wrong while sending your message. Please try again or email me directly."
+      }
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "artworkCredit": "Background: Claude Monet, Impression, Sunrise (1872) — Public Domain"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist. Return to the home page.",
+    "backHome": "Back to Home"
+  }
+}

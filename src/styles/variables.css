@@ -1,0 +1,94 @@
+:root {
+  /* Light Theme — Pulled from Monet's Impression, Sunrise (1872) */
+  --paper-bg: rgba(249, 246, 240, 0.85);
+  --paper-solid: #f9f6f0;
+  --paper-subtle: rgba(235, 229, 218, 0.58);
+  --nav-bg: rgba(249, 246, 240, 0.90);
+
+  /* Light, breathable scrim so Monet's orange sun & harbor stay vivid */
+  --hero-scrim: linear-gradient(
+    115deg,
+    rgba(16, 27, 34, 0.62) 0%,
+    rgba(19, 32, 40, 0.44) 55%,
+    rgba(22, 34, 42, 0.30) 100%
+  );
+  --banner-scrim: linear-gradient(
+    180deg,
+    rgba(16, 27, 34, 0.50) 0%,
+    rgba(16, 27, 34, 0.34) 100%
+  );
+  --modal-overlay: rgba(14, 21, 27, 0.66);
+
+  --text-primary: #1e252b;
+  --text-secondary: #434f57;
+  --text-muted: #65727b;
+  --text-on-canvas: #faf7f1;
+  --text-on-canvas-muted: rgba(250, 247, 241, 0.90);
+
+  /* Monet Vermilion Sun & Le Havre Harbor Slate */
+  --accent-primary: #c45335;
+  --accent-primary-hover: #a64126;
+  --accent-secondary: #3d5e6b;
+
+  --border-color: rgba(30, 37, 43, 0.14);
+  --border-strong: rgba(30, 37, 43, 0.28);
+
+  --shadow-paper: 0 14px 40px rgba(15, 24, 30, 0.16);
+  --shadow-modal: 0 24px 60px rgba(10, 16, 22, 0.36);
+
+  --status-success: #24633e;
+  --status-success-bg: rgba(36, 99, 62, 0.1);
+  --status-error: #a62c2c;
+  --status-error-bg: rgba(166, 44, 44, 0.08);
+
+  --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --folio-width: 980px;
+  --nav-height: 60px;
+
+  --transition-theme: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  --transition-fast: 0.18s ease;
+}
+
+[data-theme='dark'] {
+  /* Dark Theme — Evening Le Havre Harbor */
+  --paper-bg: rgba(17, 24, 30, 0.85);
+  --paper-solid: #151d24;
+  --paper-subtle: rgba(29, 40, 49, 0.62);
+  --nav-bg: rgba(17, 24, 30, 0.90);
+
+  --hero-scrim: linear-gradient(
+    115deg,
+    rgba(10, 16, 22, 0.76) 0%,
+    rgba(12, 20, 27, 0.56) 55%,
+    rgba(12, 20, 27, 0.44) 100%
+  );
+  --banner-scrim: linear-gradient(
+    180deg,
+    rgba(10, 16, 22, 0.66) 0%,
+    rgba(10, 16, 22, 0.46) 100%
+  );
+  --modal-overlay: rgba(5, 9, 13, 0.78);
+
+  --text-primary: #efeae1;
+  --text-secondary: #b7c2ca;
+  --text-muted: #8a98a3;
+  --text-on-canvas: #f5f1e9;
+  --text-on-canvas-muted: rgba(245, 241, 233, 0.86);
+
+  --accent-primary: #e07352;
+  --accent-primary-hover: #eb8768;
+  --accent-secondary: #8ab0be;
+
+  --border-color: rgba(239, 234, 225, 0.14);
+  --border-strong: rgba(239, 234, 225, 0.28);
+
+  --shadow-paper: 0 18px 48px rgba(0, 0, 0, 0.44);
+  --shadow-modal: 0 26px 68px rgba(0, 0, 0, 0.62);
+
+  --status-success: #63c78d;
+  --status-success-bg: rgba(99, 199, 141, 0.12);
+  --status-error: #f08080;
+  --status-error-bg: rgba(240, 128, 128, 0.12);
+}

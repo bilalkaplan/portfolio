@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Yapay Zeka & Veri Bilimi",
+    "category_en": "AI & Data Science",
+    "items": [
+      { "name": "Python", "level": 92, "icon": "python" },
+      { "name": "PyTorch (GRU / LSTM)", "level": 85, "icon": "pytorch" },
+      { "name": "RAG & LLM Pipelines", "level": 88, "icon": "ai" },
+      { "name": "Machine Learning & Evaluation", "level": 86, "icon": "ml" }
+    ]
+  },
+  {
+    "category": "Frontend Geliştirme",
+    "category_en": "Frontend Development",
+    "items": [
+      { "name": "React JS", "level": 88, "icon": "react" },
+      { "name": "JavaScript (ES6+)", "level": 86, "icon": "javascript" },
+      { "name": "HTML5 & Modern CSS3", "level": 90, "icon": "css" },
+      { "name": "React Router & i18n", "level": 85, "icon": "router" }
+    ]
+  },
+  {
+    "category": "Backend, Sistem & Veritabanı",
+    "category_en": "Backend, Systems & Databases",
+    "items": [
+      { "name": "SQL & İlişkisel Veritabanı", "level": 88, "icon": "sql" },
+      { "name": "Java (OOP)", "level": 82, "icon": "java" },
+      { "name": "Vector Databases", "level": 80, "icon": "database" },
+      { "name": "8086 Assembly & İşletim Sistemleri", "level": 75, "icon": "cpu" }
+    ]
+  },
+  {
+    "category": "Araçlar & Platformlar",
+    "category_en": "Tools & Platforms",
+    "items": [
+      { "name": "Git & GitHub", "level": 90, "icon": "git" },
+      { "name": "Vite & Vercel Deployment", "level": 84, "icon": "vercel" },
+      { "name": "Copilot & MCP (Generative BI)", "level": 82, "icon": "copilot" },
+      { "name": "VS Code & Linux CLI", "level": 86, "icon": "terminal" }
+    ]
+  }
+]

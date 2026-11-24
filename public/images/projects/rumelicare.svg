@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#EEEAE2"/>
+  <rect x="26" y="26" width="748" height="428" stroke="#3D5E6B" stroke-opacity="0.25" stroke-width="1.5"/>
+  <!-- Architectural relational blocks -->
+  <rect x="446" y="106" width="124" height="96" fill="#FAF7F1" stroke="#3D5E6B" stroke-width="1.5"/>
+  <line x1="446" y1="136" x2="570" y2="136" stroke="#3D5E6B" stroke-opacity="0.35"/>
+  <rect x="606" y="164" width="124" height="114" fill="#FAF7F1" stroke="#C45335" stroke-width="1.5"/>
+  <line x1="606" y1="194" x2="730" y2="194" stroke="#C45335" stroke-opacity="0.4"/>
+  <rect x="446" y="256" width="124" height="104" fill="#FAF7F1" stroke="#3D5E6B" stroke-width="1.5"/>
+  <line x1="446" y1="286" x2="570" y2="286" stroke="#3D5E6B" stroke-opacity="0.35"/>
+  <path d="M570 154 H588 V210 H606 M570 308 H588 V238 H606" stroke="#3D5E6B" stroke-width="1.5"/>
+
+  <text x="64" y="96" font-family="Georgia, serif" font-size="18" fill="#C45335" letter-spacing="2">04 / DATABASE SYSTEMS</text>
+  <text x="64" y="210" font-family="Georgia, serif" font-size="48" fill="#1E252B" font-weight="700">RumeliCare</text>
+  <text x="64" y="252" font-family="sans-serif" font-size="16" fill="#4F5B63">Relational SQL Health System</text>
+  <line x1="64" y1="286" x2="210" y2="286" stroke="#3D5E6B" stroke-width="2"/>
+  <text x="64" y="388" font-family="sans-serif" font-size="14" fill="#637078">SQL · 3NF Schema · Query Optimization</text>
+</svg>

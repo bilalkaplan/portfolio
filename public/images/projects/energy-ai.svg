@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#E6ECEB"/>
+  <rect x="26" y="26" width="748" height="428" stroke="#3D5E6B" stroke-opacity="0.28" stroke-width="1.5"/>
+  <!-- Minimal scientific plot -->
+  <g stroke="#3D5E6B" stroke-opacity="0.16">
+    <line x1="420" y1="120" x2="730" y2="120"/>
+    <line x1="420" y1="185" x2="730" y2="185"/>
+    <line x1="420" y1="250" x2="730" y2="250"/>
+    <line x1="420" y1="315" x2="730" y2="315"/>
+    <line x1="420" y1="380" x2="730" y2="380"/>
+  </g>
+  <path d="M420 330 C470 295, 505 215, 550 232 C595 250, 628 165, 675 182 L730 198" stroke="#3D5E6B" stroke-width="3" fill="none"/>
+  <path d="M420 342 C470 304, 505 228, 550 242 C595 258, 628 176, 675 194 L730 212" stroke="#C45335" stroke-width="2" stroke-dasharray="6 5" fill="none"/>
+  <circle cx="550" cy="232" r="5" fill="#C45335"/>
+  <circle cx="675" cy="182" r="5" fill="#3D5E6B"/>
+
+  <text x="64" y="96" font-family="Georgia, serif" font-size="18" fill="#C45335" letter-spacing="2">03 / DEEP LEARNING</text>
+  <text x="64" y="198" font-family="Georgia, serif" font-size="40" fill="#1E252B" font-weight="700">Austria Grid</text>
+  <text x="64" y="248" font-family="Georgia, serif" font-size="40" fill="#1E252B" font-weight="700">Crisis Predictor</text>
+  <line x1="64" y1="286" x2="210" y2="286" stroke="#C45335" stroke-width="2"/>
+  <text x="64" y="388" font-family="sans-serif" font-size="14" fill="#52626B">PyTorch · GRU &amp; BiLSTM · ENTSO-E · Net Load</text>
+</svg>

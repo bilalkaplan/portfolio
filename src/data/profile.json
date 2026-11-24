@@ -1,0 +1,217 @@
+{
+  "name": "Bilal Kocakaplan",
+  "title": "Bilgisayar Mühendisliği Öğrencisi & AI / Yazılım Geliştirici",
+  "title_en": "Computer Engineering Student & AI / Software Developer",
+  "tagline": "Ölçeklenebilir yapay zeka mimarileri, modern web arayüzleri ve insan odaklı teknoloji toplulukları inşa ediyorum.",
+  "tagline_en": "Engineering scalable AI architectures, modern web interfaces, and human-centric tech communities.",
+  "bio": "Yapay zeka mühendisliği yetkinliklerini kanıtlanmış topluluk liderliğiyle birleştiren Bilgisayar Mühendisliği son sınıf öğrencisiyim. Microsoft AI Innovators programında geliştirdiğim teknik birikimle ölçeklenebilir RAG (Retrieval-Augmented Generation) hatları ve derin öğrenme modelleri tasarlıyorum. Kod yazmanın ötesinde, Huawei Student Developers (HSD), İstanbul Veri Topluluğu ve Toplum Gönüllüleri Vakfı (TOG) bünyesindeki liderlik rollerimle teknoloji ve insan odaklı yönetim arasında köprü kuruyorum. Katıldığım Erasmus+ Gençlik Değişimleri sayesinde edindiğim uluslararası vizyonla kariyerimi Avrupa'da sürdürmeyi, etik yapay zeka mimarilerinde uzmanlaşmayı ve Teknik Proje Yöneticisi olarak sınır ötesi teknoloji girişimlerine liderlik etmeyi hedefliyorum.",
+  "bio_en": "Senior Computer Engineering student fusing advanced AI capabilities with proven community leadership. With technical expertise honed at the Microsoft AI Innovators program, I engineer scalable RAG pipelines and deep learning models. Beyond coding, I bridge tech and human-centric management through active leadership in Huawei Student Developers (HSD), Istanbul Data Community, and Community Volunteers Foundation (TOG). Driven by a global mindset shaped by multiple Erasmus+ Youth Exchanges, I aim to build my career in Europe, specialize in ethical AI architectures, and lead cross-border tech initiatives as a Technical Project Manager.",
+  "avatar": "/images/profile.jpg",
+  "email": "bilalkapl4n@gmail.com",
+  "phone": "+90 505 814 80 21",
+  "location": "İstanbul, Türkiye",
+  "location_en": "Istanbul, Türkiye",
+  "birthPlace": "Diyarbakır, Türkiye",
+  "social": {
+    "github": "https://github.com/bilalkaplan",
+    "linkedin": "https://www.linkedin.com/in/bilal-kaplan/",
+    "twitter": "https://www.instagram.com/bilalkapl4n/",
+    "instagram": "https://www.instagram.com/bilalkapl4n/"
+  },
+  "cvFile": "/Bilal_Kocakaplan_CV.pdf",
+  "stats": [
+    {
+      "value": "7+",
+      "label_tr": "Mühendislik Projesi",
+      "label_en": "Engineering Projects"
+    },
+    {
+      "value": "3",
+      "label_tr": "Erasmus+ Değişimi",
+      "label_en": "Erasmus+ Exchanges"
+    },
+    {
+      "value": "4",
+      "label_tr": "Topluluk Liderliği",
+      "label_en": "Leadership Roles"
+    },
+    {
+      "value": "6",
+      "label_tr": "Sertifika & Bildiri",
+      "label_en": "Certifications"
+    }
+  ],
+  "education": [
+    {
+      "school": "İstanbul Rumeli Üniversitesi",
+      "school_en": "Istanbul Rumeli University",
+      "degree": "Bilgisayar Mühendisliği (Lisans)",
+      "degree_en": "B.Sc. in Computer Engineering",
+      "period": "2023 – Devam Ediyor",
+      "period_en": "2023 – Present",
+      "location": "İstanbul, Türkiye",
+      "level": "EQF Seviye 6",
+      "level_en": "EQF Level 6",
+      "description": "Makine Öğrenmesi, Nesne Yönelimli Programlama, Web Teknolojileri ve Veritabanı Yönetim Sistemleri odaklı güçlü bir yazılım mühendisliği ve yapay zeka temeli edindim. Bitirme projem olan Yapay Zeka Destekli Dinamik Ev Enerji Optimizasyon Platformu'nun mimari tasarım ve vize raporu aşamasını yürütüyorum.",
+      "description_en": "Acquired a strong foundation in software engineering, artificial intelligence, and backend architectures through coursework including Machine Learning, Object-Oriented Programming, and Database Management Systems. Currently working on the architecture design and midterm report phase of my Capstone Project, an AI-Driven Dynamic Home Energy Optimization Platform."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Yapay Zeka Stajyeri (Microsoft AI Innovators)",
+      "role_en": "Artificial Intelligence Intern (Microsoft AI Innovators)",
+      "company": "Microsoft Türkiye",
+      "period": "Yaz 2026",
+      "period_en": "Summer 2026",
+      "location": "İstanbul, Türkiye",
+      "highlights_tr": [
+        "Seçici Microsoft AI Innovators Yaz Staj Programı kapsamında ~1.600 otel verisi üzerinde hassas bilgi erişimi sağlayan, LLM ve vektör veritabanı tabanlı 'Travelmind' RAG mimarisini geliştirdim.",
+        "Avusturya elektrik şebekesine odaklanan çok çözünürlüklü ENTSO-E veri setleriyle yenilenebilir enerji tahmini için PyTorch, GRU ve LSTM tabanlı derin öğrenme zaman serisi modelleri eğittim.",
+        "RMSE, MAE, WAPE metrikleri ve çapraz doğrulama yöntemleriyle model doğruluğunu ve mimari ölçeklenebilirliği doğruladım."
+      ],
+      "highlights_en": [
+        "Engineered 'Travelmind', a custom Retrieval-Augmented Generation (RAG) pipeline integrating LLMs and vector databases for precise retrieval across ~1,600 hotels.",
+        "Developed and trained deep learning time-series forecasting models (PyTorch, GRU, LSTM) for renewable energy grid optimization using multi-resolution ENTSO-E Austrian grid datasets.",
+        "Conducted rigorous model evaluation using RMSE, MAE, WAPE metrics and cross-validation techniques to ensure accuracy and scalability."
+      ]
+    }
+  ],
+  "volunteering": [
+    {
+      "role": "Kampüs Elçisi (Campus Ambassador)",
+      "role_en": "Campus Ambassador",
+      "organization": "Huawei Student Developers (HSD) Rumeli",
+      "period": "Ekim 2025 – Devam",
+      "period_en": "Oct 2025 – Present",
+      "description_tr": "Sosyal Medya Komitesi Liderliği ile kulübün dijital kimliğini sıfırdan kurdum; ardından Etkinlik Komitesi Lideri olarak teknik seminerler ve teknoloji şirketlerine geziler organize ettim. Halihazırda İstanbul Rumeli Üniversitesi'nde HSD Kampüs Elçisi olarak topluluğu temsil ediyor, ekip koordinasyonunu ve kampüs geliştirici ekosisteminin büyümesini yönetiyorum.",
+      "description_en": "Built the club's digital identity from scratch as Social Media Committee Leader, then directed technical seminars and industry field trips as Event Committee Leader. I currently serve as HSD Campus Ambassador at Istanbul Rumeli University, representing the community, coordinating teams, and growing the campus developer ecosystem."
+    },
+    {
+      "role": "Kampüs Elçisi",
+      "role_en": "Campus Ambassador",
+      "organization": "İstanbul Veri Topluluğu (Istanbul Data Community)",
+      "period": "Ağustos 2026 – Devam",
+      "period_en": "Aug 2026 – Present",
+      "description_tr": "Kampüste veri okuryazarlığı, analitik ve teknoloji girişimlerini yaygınlaştırmak için resmi üniversite temsilcisi olarak stratejik topluluk iş birlikleri kuruyorum.",
+      "description_en": "Serve as official university liaison promoting data literacy, analytics, and tech initiatives across campus while fostering strategic partnerships with HSD Rumeli."
+    },
+    {
+      "role": "Eş Koordinatör",
+      "role_en": "Co-Coordinator",
+      "organization": "Toplum Gönüllüleri Vakfı (TOG) Rumeli",
+      "period": "Ekim 2025 – Devam",
+      "period_en": "Oct 2025 – Present",
+      "description_tr": "Sosyal sorumluluk projelerini fikir aşamasından saha uygulamasına kadar yönetiyor, gönüllü ekipleri ve saha operasyonlarını koordine ediyorum.",
+      "description_en": "Supervise end-to-end community social responsibility projects from ideation to field execution, coordinating volunteer teams and operations."
+    },
+    {
+      "role": "Öğrenci Komitesi Üyesi",
+      "role_en": "Student Committee Member",
+      "organization": "Ketojeminik",
+      "period": "Mayıs 2026 – Devam",
+      "period_en": "May 2026 – Present",
+      "description_tr": "İnsan hakları savunuculuğu, kapsayıcılık ve sosyal farkındalık odaklı kampüs kampanyalarının planlanması ve saha faaliyetlerinde aktif görev alıyorum.",
+      "description_en": "Actively contribute to campus-wide awareness campaigns dedicated to human rights advocacy, inclusivity, and student welfare."
+    }
+  ],
+  "international": [
+    {
+      "title": "Taste, Create, Transform — Erasmus+",
+      "location_tr": "Le Faï, Fransa",
+      "location_en": "Le Faï, France",
+      "period": "Ekim 2026",
+      "period_en": "Oct 2026",
+      "summary_tr": "Kırsal kalkınma, sürdürülebilirlik ve toplumsal dönüşüm odaklı uluslararası gençlik değişimi ve dijital yaygınlaştırma liderliği.",
+      "summary_en": "EU-funded youth exchange on rural development, sustainability, social transformation, and digital dissemination."
+    },
+    {
+      "title": "BREATHE — Erasmus+",
+      "location_tr": "Panevėžys & Pas Rapola, Litvanya",
+      "location_en": "Panevėžys & Pas Rapola, Lithuania",
+      "period": "Eylül 2026",
+      "period_en": "Sep 2026",
+      "summary_tr": "Kültürlerarası diyalog, farkındalık atölyeleri ve uluslararası mühendislik ağı oluşturma odaklı gençlik değişimi.",
+      "summary_en": "Intercultural dialogue, mindfulness workshops, community outreach, and building an international tech peer network."
+    },
+    {
+      "title": "HABITUS BONUS — Erasmus+ (Youthpass)",
+      "location_tr": "Rettenegg, Avusturya",
+      "location_en": "Rettenegg, Austria",
+      "period": "Mayıs 2026",
+      "period_en": "May 2026",
+      "summary_tr": "6 ülkeden katılımcıyla psikolojik dayanıklılık, empati ve dijital dokümantasyon üzerine resmi Youthpass sertifikalı AB projesi.",
+      "summary_en": "EU Youth Exchange with peers from six countries focused on emotional resilience and collaborative digital documentation (Youthpass validated)."
+    }
+  ],
+  "conference": {
+    "title_tr": "COVID-19 Sonrası Pandeminin Türkiye'de Sağlık ve İstihdam Üzerindeki Etkisi",
+    "title_en": "The Effect of the Post-Coronavirus (COVID-19) Pandemic on Health and Employment in Turkey",
+    "event_tr": "7. Uluslararası İzmir Tıp, Hemşirelik, Ebelik ve Sağlık Bilimleri Kongresi",
+    "event_en": "7th International Izmir Medicine, Nursing, Midwifery and Health Sciences Congress",
+    "date": "Ocak 2025",
+    "date_en": "Jan 2025",
+    "url": "https://bztturanpublishinghouse.com/tr/urun/7th-international-izmir-congress-on-medicine-nursing-midwifery-and-health-sciences-proceedings-book/"
+  },
+  "certifications": [
+    {
+      "name_tr": "Microsoft AI Innovators Staj Programı Tamamlama Sertifikası",
+      "name_en": "Certificate of Completion: Microsoft AI Innovators Internship Program",
+      "issuer": "Microsoft Türkiye",
+      "date": "08/2026"
+    },
+    {
+      "name_tr": "Youthpass Sertifikası: Habitus Bonus (Erasmus+)",
+      "name_en": "Youthpass Certificate: Habitus Bonus (Erasmus+ Youth Exchange)",
+      "issuer": "European Union Erasmus+ / TRANSFORMATION Österreich",
+      "date": "05/2026"
+    },
+    {
+      "name_tr": "Takdir Sertifikası (Veri Analizi ve Eğitim)",
+      "name_en": "Certificate of Appreciation (Data Analysis & Education)",
+      "issuer": "İstanbul Veri Topluluğu",
+      "date": "05/2026"
+    },
+    {
+      "name_tr": "Next-Gen BI — Copilot ve MCP ile Üretken İş Zekası Atölyesi",
+      "name_en": "Next-Gen BI — Generative BI Workshop with Copilot and MCP",
+      "issuer": "İBB Tech İstanbul & İstanbul Veri Topluluğu",
+      "date": "04/2026"
+    },
+    {
+      "name_tr": "Python Yazılım Geliştirme Atölyesi",
+      "name_en": "Python Software Development Workshop",
+      "issuer": "İBB Tech İstanbul",
+      "date": "10/2024"
+    }
+  ],
+  "hobbies": [
+    {
+      "icon": "guitar",
+      "title_tr": "Klasik Gitar & Müzik",
+      "title_en": "Classical Guitar & Music",
+      "desc_tr": "Klasik gitar çalmak, teknik disiplini yaratıcı ritimle birleştirmemi ve problem çözerken farklı perspektifler kazanmamı sağlıyor.",
+      "desc_en": "Playing classical guitar blends technical discipline with creative rhythm, sharpening focus and creative engineering."
+    },
+    {
+      "icon": "pen",
+      "title_tr": "Şiir & Özgün Senaryo Yazarlığı",
+      "title_en": "Poetry & Screenwriting",
+      "desc_tr": "Şiir yazıyor ve özgün bir senaryo geliştiriyorum; hikaye anlatıcılığı teknik sunum ve ürün vizyonumu güçlendiriyor.",
+      "desc_en": "Writing poetry and developing an original screenplay strengthens my storytelling, analytical clarity and product communication."
+    },
+    {
+      "icon": "globe",
+      "title_tr": "Kültürlerarası Etkileşim",
+      "title_en": "Intercultural Exchange",
+      "desc_tr": "Avrupa çapındaki Erasmus+ gençlik projeleriyle farklı kültürlerle iş birliği yapmayı ve küresel ağlar kurmayı seviyorum.",
+      "desc_en": "Collaborating across cultures through European Erasmus+ exchanges to build global perspectives and lasting networks."
+    },
+    {
+      "icon": "community",
+      "title_tr": "Teknoloji Toplulukları",
+      "title_en": "Tech Communities",
+      "desc_tr": "Kampüste geliştirici etkinlikleri, teknik seminerler ve sosyal sorumluluk projeleri organize etmekten büyük keyif alıyorum.",
+      "desc_en": "Organizing developer meetups, technical seminars, and social impact initiatives on campus."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" fill="#ECE6DA"/>
+  <rect x="26" y="26" width="748" height="428" stroke="#3D5E6B" stroke-opacity="0.28" stroke-width="1.5"/>
+  <!-- Minimalist geometric retrieval arcs -->
+  <circle cx="565" cy="240" r="142" stroke="#3D5E6B" stroke-opacity="0.32" stroke-width="1.5"/>
+  <circle cx="565" cy="240" r="96" stroke="#C45335" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="5 6"/>
+  <circle cx="565" cy="240" r="46" fill="#C45335" fill-opacity="0.16" stroke="#C45335" stroke-width="1.5"/>
+  <circle cx="565" cy="240" r="9" fill="#C45335"/>
+  <line x1="423" y1="240" x2="707" y2="240" stroke="#3D5E6B" stroke-opacity="0.22"/>
+  <line x1="565" y1="98" x2="565" y2="382" stroke="#3D5E6B" stroke-opacity="0.22"/>
+  <circle cx="485" cy="184" r="5" fill="#3D5E6B"/>
+  <circle cx="642" cy="198" r="5" fill="#3D5E6B"/>
+  <circle cx="520" cy="316" r="5" fill="#3D5E6B"/>
+  <path d="M485 184 L565 240 L642 198 M565 240 L520 316" stroke="#3D5E6B" stroke-opacity="0.45" stroke-width="1.4"/>
+
+  <text x="64" y="96" font-family="Georgia, serif" font-size="18" fill="#C45335" letter-spacing="2">01 / AI &amp; RETRIEVAL</text>
+  <text x="64" y="210" font-family="Georgia, serif" font-size="48" fill="#1E252B" font-weight="700">Travelmind</text>
+  <text x="64" y="252" font-family="sans-serif" font-size="16" fill="#4F5B63">RAG Pipeline · Vector Search</text>
+  <line x1="64" y1="286" x2="210" y2="286" stroke="#C45335" stroke-width="2"/>
+  <text x="64" y="388" font-family="sans-serif" font-size="14" fill="#637078">Microsoft AI Innovators · ~1,600 Hotels</text>
+</svg>
